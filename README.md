@@ -10,3 +10,9 @@
 * 默认的网站ip为192.168.145.162，可以根据自己的实际需求改成对应ip
 * api-page.php为分页文件
 * api-detail.php为内容详情文件
+
+# 界面
+
+* 首页界面
+> ![列表图]（http://img.my.csdn.net/uploads/201607/13/1468404520_3788.jpg）
+> ![详情](http://img.my.csdn.net/uploads/201607/13/1468404506_4411.jpg)
