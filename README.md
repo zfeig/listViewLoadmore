@@ -13,6 +13,7 @@
 
 # 界面
 
-* 首页界面
-> ![列表图]（http://img.my.csdn.net/uploads/201607/13/1468404520_3788.jpg）
-> ![详情](http://img.my.csdn.net/uploads/201607/13/1468404506_4411.jpg)
+* 
+![列表图](http://img.my.csdn.net/uploads/201607/13/1468404520_3788.jpg)
+* 
+![详情](http://img.my.csdn.net/uploads/201607/13/1468404506_4411.jpg)
